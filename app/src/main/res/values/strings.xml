@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">nettoie ton visage</string>
+    <string name="home">Home</string>
+    <string name="how_to_use">How to Use</string>
+    <string name="about_us">About Us</string>
+    <string name="treatment">Treatment</string>
+    <string name="todo">TODO</string>
+    <string name="upload">Upload</string>
+
+    >-- About Us --->
+
+    <string name="name">Andri Aryarasyid</string>
+    <string name="path">Machine Learning</string>
+    <string name="jur">Electrical Engineering</string>
+    <string name="univv">Telkom University</string>
+    <string name="name2">Muhammad Dimas</string>
+    <string name="path2">Cloud Computing</string>
+    <string name="jur2">Informatics</string>
+    <string name="name4">Loudry Achmad</string>
+    <string name="name3">Linda Kushernawati</string>
+    <string name="univv2">Universitas Muhammadiyah Sidoarjo</string>
+    <string name="jur3">Telecommunication Engineering</string>
+    <string name="name5">Mauladisra Mefid</string>
+    <string name="path3">Mobile Development</string>
+    <string name="name6">Angela Tiurma</string>
+
+    >-- How to Use -->
+
+    <string name="howw">How to Use </string>
+    <string name="use1">1. Upload a photo of your face by clicking the upload button"</string>
+    <string name="use2">2. Wait the process</string>
+    <string name="use3">3. The severity of the acne will appear</string>
+    <string name="use4">4. Follow the recommended treatment recommendations</string>
+
+    >-- Treatment -->
+    <string name="t1" />
+    <string name="recom" />
+    <string name="acne_severity_level">Acne Severity Level</string>
+
+
+</resources>
